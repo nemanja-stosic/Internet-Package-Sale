@@ -1,6 +1,6 @@
 # Internet-Package-Sale
 
-Simple JavaFX application which registers an internet package contract and shows in the table. All data are saved in MongoDB. The application is also styled with CSS.
+Simple JavaFX application which registers an internet package contract and shows users in the table. All data are saved in MongoDB. The application is also styled with CSS.
 
 Preview:
 ![1](https://user-images.githubusercontent.com/48128569/138433315-606b94fa-8fed-4d45-8022-53774e57fa1b.PNG)
