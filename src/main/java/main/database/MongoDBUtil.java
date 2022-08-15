@@ -37,7 +37,7 @@ public class MongoDBUtil {
         //opening database
         MongoDatabase database = mongo.getDatabase("internet_package_sales");
 
-        //making collection with name user from Person class
+        //making collection with name user from InternetPackage class
         MongoCollection<InternetPackage> collection = database.getCollection("sales", InternetPackage.class);
 
         //configuring CodecProvider so we can use InternetPackage class
